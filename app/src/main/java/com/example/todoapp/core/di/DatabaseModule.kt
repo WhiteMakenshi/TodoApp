@@ -1,4 +1,4 @@
-package com.example.todoapp.addtasks.data.di
+package com.example.todoapp.core.di
 
 import android.content.Context
 import androidx.room.Room
